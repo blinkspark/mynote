@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1998cfa3532ff215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识/梨泰院.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-10-31.md",
+                "file": "知识/梨泰院.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-10-31.md",
+                "file": "知识/梨泰院.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-10-31.md"
+                "file": "知识/梨泰院.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ff5328d8c2dbde3f",
@@ -163,10 +175,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08649b82ff8d4028",
+  "active": "1998cfa3532ff215",
   "lastOpenFiles": [
+    "知识/梦天实验舱.md",
+    "日记/2022-10-31.md",
+    "图片/梦天实验舱图片.png",
     "知识/梨泰院.md",
-    "图片/梨泰院图片.png",
-    "日记/2022-10-31.md"
+    "图片/梨泰院图片.png"
   ]
 }
