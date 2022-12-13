@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识/梨泰院.md",
+                "file": "日记/2022-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识/梨泰院.md",
+                "file": "日记/2022-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识/梨泰院.md"
+                "file": "日记/2022-10-31.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "ff5328d8c2dbde3f",
@@ -175,7 +175,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1998cfa3532ff215",
+  "active": "105ad1618b594eb9",
   "lastOpenFiles": [
     "知识/梦天实验舱.md",
     "日记/2022-10-31.md",
